@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikhail Kubrin</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/GYny.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubr1n&label=Profile%20views&color=0e75b6&style=flat" alt="kubr1n" /> </p>
 
